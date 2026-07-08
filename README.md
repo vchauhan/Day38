@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/dd364afc-cd1b-4e3f-92dc-7f2e7231d4da
+
 [typing-speed-studio.html](https://github.com/user-attachments/files/29801038/typing-speed-studio.html)
 # Day38
 Build Typing Speed Studio
